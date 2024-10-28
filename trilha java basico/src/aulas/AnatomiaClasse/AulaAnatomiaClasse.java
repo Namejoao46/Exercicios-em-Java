@@ -1,5 +1,6 @@
 // PASTAS
-package aulas.AnatomiaClasse;
+
+package aulas.anatomiaClasse;
 
 public class AulaAnatomiaClasse {
     public static void main(String[] args) {
