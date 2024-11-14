@@ -36,5 +36,4 @@ public class Exercicio2 {
         //FECHANDO O SCANNER
         lendo.close();
     }
-    
 }
